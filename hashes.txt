@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nuestro amor para la eternidad
+
+This log tracks the cryptographic history and versioning for the song **Nuestro amor para la eternidad** (nuestro-amor-para-la-eternidad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:03:54.775888 | `v1` | `e66b05b7b0a6fa7a654b081575f661dd8c99ce2dd1c7bf5cfcf81810c17ac519` | `aa615fa58e0ae0835cbbc6393e1f04972201c563688548ad6661374238b9ea82` | `2026-06-15_nuestro-amor-para-la-eternidad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
