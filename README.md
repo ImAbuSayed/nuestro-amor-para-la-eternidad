@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nuestro-amor-para-la-eternidad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Nuestro amor para la eternidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-amor-para-la-eternidad/) |
+| **Get License** | [Obtain a Music License for Nuestro amor para la eternidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-amor-para-la-eternidad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo las luces de la calle y el neón
+> Me robas el alma y toda la atención
+> Con cada beso tú me quitas la razón
+> Nuestro amor para la eternidad, mi perdición.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
